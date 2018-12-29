@@ -1,2 +1,2 @@
-# codesocieties-winter-19
-Code Societies 
+# Code Societies Winter 2019
+Coming soon (◕‿◕)
