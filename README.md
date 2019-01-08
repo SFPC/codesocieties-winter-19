@@ -97,23 +97,6 @@ In this session, let's experiment together with creating ethicsware: software in
 
 What does it mean to create technology that operates on our ethics? What is technology that does not serve us, but is concerned for us? Technologies of care and concern, over service and fulfillment? Let’s find out together.
 
-### Sorting Things Out: Classifications, Ontologies, Data Models, Knowledge Graphs
-Shannon Mattern
-- July 16th, 17th
-- https://docs.google.com/document/d/1riZTAquDnjMzM_gHm3gZobxnuitBwAEXaX68AhLTKNY/edit?usp=sharing
-
-We sort things into piles, put things onto shelves, build folders on desktops,
-and check boxes on forms that identify (or approximate) our gender, race, and,
-citizenship. Such sorting not only helps to reduce clutter; it also, often,
-determines what counts, imposes an implied valuation, and informs access to
-opportunity. In these two sessions of “Code Societies,” we’ll examine how the
-construction of classification systems, ontologies, data models, and knowledge
-graphs serves to translate between worldviews, way of knowing, ideologies, and
-modes of governance. In some cases, we might say that these organizational
-systems, encoded in computational form, code particular societies into being.
-How might we develop aspirational ontologies that help us to imagine more just,
-inclusive, peaceful societies?
-
 ### Networked Terraforming (2 Sessions)
 Ingrid Burrington
 - 1/16/2019, 1/22/2019
