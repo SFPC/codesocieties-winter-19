@@ -135,3 +135,36 @@ up and down arrow keys
 | College Home | https://github.com/ilange/Carlos-computational-methods-code-societies
 | Order of activities after waking up |
 | People met today |
+
+## 🌿What is git??
+> A version control and time travel software! Suspend your belief for just a moment!
+
+To begin `cd ..` and `cd ..` again until you are inside `computational-methods-code-societies`
+
+✨Enter the command: `git init`
+Now follow these steps:
+1. `git add .`     
+2. `cd time-travel/`
+3. `ls`
+4. You should now see a folder called `sensations.txt`
+5. `atom .`
+6. Edit the `sensations.txt` file in Atom
+> For the next 60s ⏲, inside the `sensations.txt` file write down the small sensations and sounds you’re experiencing right now in this moment. Volume of words > coherence
+7. Save the file and go back to terminal.
+8. `git commit -am “my first sensations”`
+
+> Repeat steps 6 - 7 two more times; 
+
+9. Make sure you `git commit -m “my second sensations”` + `git commit -m “my third sensations”`
+10. `git log`
+11. Copy one of the hashes from one of your commits. The hash looks something like this `6c750cb264c6d5ad0fac18863cafd0df35315fce`
+12. Press `q` to exit log
+13. `git show <place your hash here>` this allows you to review the detailed history of a given change
+
+> Now we’re going to time travel!!
+
+14. `git checkout <place the hash of your first commit here>`
+
+> This is like traveling through time to past versions of yourself and the record of the sensations you were feeling at multiple distinct moments in the past 🔮
+
+15. Advanced, optional: rewriting history with `git rebase`
