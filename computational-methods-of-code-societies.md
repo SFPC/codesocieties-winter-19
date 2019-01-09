@@ -1,5 +1,6 @@
 # Computational Methods of Code Societies
 Day 2 ~ Code Societies ~ Winter 2019
+Taught by Melanie Hoff & Nabil Hassein
 
 _🍃The computer, the programmer, the relationship they have with each other, and the environments they create🍃_
 
