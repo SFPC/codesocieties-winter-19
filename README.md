@@ -8,17 +8,11 @@
 - 6:30pm - 9:30pm, Monday to Friday
 
 #### Description
-Code Societies will examine the ideological and mythological attributes of
-computation, concentrating on the poetics and politics of culturally embedded
-software. How do different platforms and processes — including algorithms, data
-collection, social media, networks, simulation, and ritual — yield distinct
-modes of seeing, thinking, and feeling, structure social organization, and
-reinforce existing systems of power? Through a balanced study of critical theory
-and hands-on making workshops, students will create several small projects that
-explore and question these ideas. Students will be introduced to Python and
-discover poetic, playful, and powerful ways to use computation. All levels of
-programming ability welcome and an enthusiastic willingness to reconsider how
-code shapes and is shaped by society required!
+SFPC’s Code Societies, our winter intensive session, will examine the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas.
+
+No coding experience necessary; only enthusiasm and willingness to reconsider how code shapes and is shaped by society. The session will begin with a brief introduction to programming with Python and navigating the command line.
+
+Central to Code Societies is understanding technology as culture and culture as social technology. Students are encouraged to engage with code and the ways code acts on our bodies and networks equally as subject and as medium. Code Societies is both this session’s subject and it’s prompt; an invitation to consider coding and choreographing new ways of being in relation with each other. Student’s should expect to develop several small scores or sketch pieces that may exist online, on screens, be performed, or installed.
 
 Code Societies Winter 2019 session is organized by Melanie Hoff and the teaching
 assistants are Ying Quan Tan and Nabil Hassein.
@@ -87,8 +81,6 @@ Whose world is this? The World is Ours. Together students will work thru a Beta 
 Dan Taeyoung
 - 1/15/2019
 
-Ethicsware
-
 Much of the technology we encounter in our daily lives takes the form of a service, and of servitude. Our desires are taken as a given, and technology attempts for fulfillment. 
 
 What is technology that debates and disputes, rather than fulfills our desires?  What is intimate software, created by us, only for us, that debates with our ethical selves? 
@@ -107,13 +99,6 @@ The internet as we live with it today could be conceived of as one of the most a
 ### Cybernetics of Sex: Technology, Feminisms, & the Choreography of Culture
 Melanie Hoff
 - 1/17/2019
-
-### Networked Terraforming (2 Sessions)
-Ingrid Burrington
-- 1/16/2019, 1/22/2019
-- https://github.com/lifewinning/networked-terraforming
-
-The internet as we live with it today could be conceived of as one of the most ambitious long-term geoengineering projects of human civilization. How can we learn to look for and understand the large-scale global terraforming projects shaping our lives at a more human-sized dimension? This workshop will map and explore the many landscapes shaped by and shaping code society.
 
 ### we play programmed.
 FlucT
