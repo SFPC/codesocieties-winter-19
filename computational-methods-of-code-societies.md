@@ -103,7 +103,7 @@ up and down arrow keys
 ## 🌿Now you can create your _own_ Folder Structure Narrative
 > Example of artist, Ryan Kuo who used navigating a generic looking Mac Application to talk about navigating family dynamics in his piece, [Family Maker](https://www.dropbox.com/s/ra6gl7hakv4n3qg/Screenshot%202019-01-08%2013.34.51.png?dl=0)
 
-1. Run cd .. as many times as you need until your bash prompt tells you that you are inside of the `computational-methods-code-societies` folder
+1. Run `cd ..` as many times as you need until your bash prompt tells you that you are inside of the `computational-methods-code-societies` folder
 2. We will use the `mkdir` command to create some new folders. mkdir stands for make directory. For example, you can run `mkdir my-new-folder` and that folder will be created inside of your `computational-methods-code-societies directory`. 
 3. Use the touch command to create new files within the folders. It is helpful to make sure that the names of your folders and files do not have spaces or capital letters
 4. Use `cd name-of-folder` and `cd ..` to move in and out of folders
