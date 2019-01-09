@@ -168,3 +168,31 @@ Now follow these steps:
 > This is like traveling through time to past versions of yourself and the record of the sensations you were feeling at multiple distinct moments in the past 🔮
 
 15. Advanced, optional: rewriting history with `git rebase`
+
+## 🌿What is GitHub?
+Git is an open source software that GitHub capitalizes on. Git allows for collaboration. GitHub will allow you to save, and edit and update your code. For this guide we will be pushing our Folder Strucuture Narrative up to a new GitHub repository
+
+Make sure to run `git checkout master` to go back to your latest code (all three sensations).
+
+1. Login to GitHub or create account.
+2. Go to repositories page and click new, 
+3. Name it `computational-methods-code-societies`
+4. Click the Create Repository button
+5. Type `git remote rm origin` (this ensures that you will be able to add your own github repository as the origin)
+6. Follow the instructions at your GitHub repository for “push to an existing repository”
+7. Copy each of the following commands one at a time, paste it into the terminal and press enter
+8. git remote add origin <YOUR URL HERE>
+9. Before running the following command you should ensure that all of your files and folders are ready to be added to your repository. You can do this by running `git add .` Keep in mind that git only cares about files, so it will not upload folders if they don’t have files inside of them.
+10. Now you can run `git commit -am “name of message”` (the message describes what you are adding)
+11. Now type `git push -u origin master` (the name origin is just a naming convention and is referring to the url for your repository)
+12. Prompt for username and password: Passwords are invisible in terminal
+13. Optional: setting up ssh keys, if you don’t want to constantly enter your username and password
+
+Common workflow:
+git pull
+make your changes
+save file changes 
+run git status to see a list of what files changes have been made
+git commit -am “my changes message”
+git push
+
