@@ -238,13 +238,13 @@ for line in sensations:
 ```
 Now you can save the file and go back to the Terminal.
 
-In the terminal you can write `jupyter notebook` and press enter. This will automatically open up a new 
+In the terminal you can write `jupyter notebook` and press enter. This will automatically open up a new browser window.
 
 > Programming is like magic :) 
 
-Click on Introduction to Python file
+Click on `Introduction to Python` file.
 
-How can we work with these python notebooks?
+##### How can we work with these python notebooks?
 
 - Use down arrow key to navigate to next section or block of code
 
