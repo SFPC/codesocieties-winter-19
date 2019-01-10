@@ -287,3 +287,7 @@ For example:
 	- `Io` stands for input ouput
 	
 ##### Perhaps the #1 programming skill is “googling the error message”
+
+More resources:
+- https://drive.google.com/file/d/1gxjTV0SjIgedS7mGaLGwwf6_-7w380lL/view
+- https://devhints.io/
