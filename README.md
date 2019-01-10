@@ -1,3 +1,10 @@
+<style>
+  img {
+    width: 100%;
+  }
+</style>
+
+
 # Code Societies Winter 2019
 
 
