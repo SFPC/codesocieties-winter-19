@@ -196,6 +196,18 @@ run `git status` to see a list of what files changes have been made
 `git commit -am “my changes message”`
 `git push`
 
+#### Partner Activity
+
+1. Fork the `computational-methods-code-societies` repo of your partner 
+2. Rename this forked repo on your github via the Settings button to include their name
+3. Press the green Git Clone button and copy paste: `git clone <the url of the forked repo>` into your terminal (make sure that you are doing this inside your home directory)
+4. Now you have a copy of your partner’s repo on your computer.
+5. Take a look at your partner’s invented Folder Structure Narrative from earlier in class. 
+6. Using terminal, build on top of what your partner was going for with their narrative.
+7. `git add .`
+8. `git commit -am “my addition to my partner’s narrative”`
+9. `git push`
+
 ## 🌿Python
 There are a lot of different ways to interact with Python. One way is using the interactive interpreter. Another way is using Jupyter Notebooks. In this guide we will mostly be working within a Jupyter Notebook.
 
@@ -245,6 +257,16 @@ In the terminal you can write `jupyter notebook` and press enter. This will auto
 Click on `Introduction to Python` file.
 
 ##### How can we work with these python notebooks?
+
+Here is a list of Jupyter Notebook Keyboard Shortcuts:
+- shift + enter run cell, select below.
+- ctrl + enter run cell.
+- option + enter run cell, insert below.
+- A insert cell above.
+- B insert cell below.
+- C copy cell.
+- V paste cell.
+- D , D delete selected cell.
 
 - Use down arrow key to navigate to next section or block of code
 
