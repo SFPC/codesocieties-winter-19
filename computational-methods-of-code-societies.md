@@ -3,7 +3,7 @@ Day 2 ~ Code Societies ~ Winter 2019
 
 Taught by Melanie Hoff & Nabil Hassein
 
-`this guide was compiled by emma @doodybrains rae norton`
+✿ this guide was compiled by emma @doodybrains rae norton
 
 _🍃The computer, the programmer, the relationship they have with each other, and the environments they create🍃_
 
