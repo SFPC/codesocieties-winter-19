@@ -3,6 +3,8 @@ Day 2 ~ Code Societies ~ Winter 2019
 
 Taught by Melanie Hoff & Nabil Hassein
 
+✿ this guide was compiled by emma @doodybrains rae norton
+
 _🍃The computer, the programmer, the relationship they have with each other, and the environments they create🍃_
 
 A one-session class covering the primary computational methods of Code Societies Classes: Winter 2019. Together we will defamiliarize and refamiliarize ourselves with the Command Line Interface, Git/Github, running Python 3 in the terminal, & running Python 3 with Anaconda Jupyter Notebook. We will navigate folder structure narratives with the command line, time travel with Git, code socially with Github, and process language with Python.
