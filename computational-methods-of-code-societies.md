@@ -196,3 +196,65 @@ run git status to see a list of what files changes have been made
 git commit -am “my changes message”
 git push
 
+🌿Python
+There are a lot of different ways to interact with Python. One way is using the interactive interpreter. Another way is using Jupyter Notebooks. In this guide we will mostly be working within a Jupyter Notebook.
+> Don’t forget to check out Nabil’s workshop Mathematics as Religious Experience on Dec 23 
+To ensure that Python is installed:
+Type word python and press enter you should get back something like this Python 3.7.1 (default, Dec 14 2018, 13:28:58)[Clang 4.0.1 (tags/RELEASE_401/final)] :: 
+
+In terminal you can write `print(hello world)` and the terminal will print out the line "hello world". In Python you will usually write the name of the function, open parentheses, argument, closed parentheses
+
+> When learning to program make sure to give yourself time! Check out the book _Teach yourself programming in 10 years_
+
+Now we will do some more things with Python. 	
+1. Open atom
+2. Create a new file
+3. Paste in the following:
+	`sensations = open(“sensations.txt”)`
+4. Creating a variable that is going to store the information inside sensations.txt. Open is telling my computer to looks for a file called sensations.txt within the directory that you are currently in. Don’t forget to use quotations for your file name!
+5. Now add print(sensations)
+    This will print out whatever is inside of the variable sensations. Terminal will return:
+	`<_io.TextIOWrapper name='sensations.txt' mode='r' encoding='UTF-8'>`
+
+## Loops
+
+In the sensations.txt file add the following lines:
+
+```sh
+for line in sensations:
+	print(line)
+```
+
+The sensations.txt file should now look like this:
+
+```sh
+sensations = open("sensations.txt")
+
+for line in sensations:
+	print(line)
+```
+Now you can save the file and go back to the Terminal.
+
+In the terminal you can write `jupyter notebook` and press enter. This will automatically open up a new 
+
+> Programming is like magic :) 
+
+Click on Introduction to Python file
+
+How can we work with these python notebooks?
+
+	Use down arrow key to navigate to next section
+
+	When clock of code is highlighted in blue you can press command enter (or control enter) to run it (you can press the button also!)
+
+		Debugging -> gracehopper story -> think like a scientist and come up with a hypothesis for what you think is going on then do a series of test to try and prove yourself wrong
+
+	Once we have gotten to the end of the file we need to open the file again!
+
+Make sure to read the error message! Try your best to try and understand what the computer is saying!
+
+Traceback (most recent call last) (top of the code)
+Io = input output
+If you want to use python the file should be open not closed!
+#1 programming skill: 
+“Googling the Error Message” - stackoverflow is often a reliable source!
