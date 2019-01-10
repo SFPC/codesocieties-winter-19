@@ -35,7 +35,7 @@ assistants are Ying Quan Tan and Nabil Hassein.
 # Classes
 
 ### Introduction to Code Societies with Melanie Hoff
-## Introduction to SFPC with Taeyoon Choi
+#### Introduction to SFPC with Taeyoon Choi
 Melanie Hoff and  Taeyoon Choi
 - 1/7/18
 - [Code Societies Slides Keynote Form](https://drive.google.com/open?id=1D4QJYRNgNyuj5ebva-69A8cevwQkHCBn)
