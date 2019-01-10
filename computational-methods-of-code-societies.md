@@ -189,12 +189,12 @@ Make sure to run `git checkout master` to go back to your latest code (all three
 13. Optional: setting up ssh keys, if you don’t want to constantly enter your username and password
 
 Common workflow:
-git pull
-make your changes
+`git pull`
+make changes
 save file changes 
-run git status to see a list of what files changes have been made
-git commit -am “my changes message”
-git push
+run `git status` to see a list of what files changes have been made
+`git commit -am “my changes message”`
+`git push`
 
 ## 🌿Python
 There are a lot of different ways to interact with Python. One way is using the interactive interpreter. Another way is using Jupyter Notebooks. In this guide we will mostly be working within a Jupyter Notebook.
@@ -258,11 +258,10 @@ How can we work with these python notebooks?
 
 - Once we have gotten to the end of the file remember that we need to open the file again before we can successfully run it!
 
-- Make sure to read the error messages! Try your best to try and understand what the computer is saying!
+- Make sure to read the error messages. Try your best to understand what the computer is saying.
+
 For example:
-	- Traceback (most recent call last) (top of the code)
-	- Io = input output
-	- If you want to use python the file should be open not closed!
+	- `Traceback (most recent call last)` is referring to the most recent place in the code where an error was found 
+	- `Io` stands for input ouput
 	
-##### Perhaps the #1 programming skill: 
-“Googling the Error Message”
+##### Perhaps the #1 programming skill is “googling the error message”
