@@ -196,17 +196,20 @@ run git status to see a list of what files changes have been made
 git commit -am “my changes message”
 git push
 
-🌿Python
+## 🌿Python
 There are a lot of different ways to interact with Python. One way is using the interactive interpreter. Another way is using Jupyter Notebooks. In this guide we will mostly be working within a Jupyter Notebook.
+
 > Don’t forget to check out Nabil’s workshop Mathematics as Religious Experience on Dec 23 
-To ensure that Python is installed:
+
+#### To ensure that Python is installed:
 Type word python and press enter you should get back something like this Python 3.7.1 (default, Dec 14 2018, 13:28:58)[Clang 4.0.1 (tags/RELEASE_401/final)] :: 
 
+#### Python terminology + conventions
 In terminal you can write `print(hello world)` and the terminal will print out the line "hello world". In Python you will usually write the name of the function, open parentheses, argument, closed parentheses
 
 > When learning to program make sure to give yourself time! Check out the book _Teach yourself programming in 10 years_
 
-Now we will do some more things with Python. 	
+Now we will do some more things with Python:
 1. Open atom
 2. Create a new file
 3. Paste in the following:
@@ -243,18 +246,23 @@ Click on Introduction to Python file
 
 How can we work with these python notebooks?
 
-	Use down arrow key to navigate to next section
+- Use down arrow key to navigate to next section or block of code
 
-	When clock of code is highlighted in blue you can press command enter (or control enter) to run it (you can press the button also!)
+- When clock of code is highlighted in blue you can press command enter (or control enter) to run it (you can press the button also!)
 
-		Debugging -> gracehopper story -> think like a scientist and come up with a hypothesis for what you think is going on then do a series of test to try and prove yourself wrong
+- Debugging 
 
-	Once we have gotten to the end of the file we need to open the file again!
+![First Computer Bug - Image ©Courtesy of the Naval Surface Warfare Center, Dahlgren, VA., 1988. NHHC Collection](https://media.wired.com/photos/5b173a76747c6a7f99f901a4/master/w_740,c_limit/moth.jpg)
 
-Make sure to read the error message! Try your best to try and understand what the computer is saying!
+> think like a scientist and come up with a hypothesis for what you think is going on then do a series of test to try and prove yourself wrong
 
-Traceback (most recent call last) (top of the code)
-Io = input output
-If you want to use python the file should be open not closed!
-#1 programming skill: 
-“Googling the Error Message” - stackoverflow is often a reliable source!
+- Once we have gotten to the end of the file remember that we need to open the file again before we can successfully run it!
+
+- Make sure to read the error messages! Try your best to try and understand what the computer is saying!
+For example:
+	- Traceback (most recent call last) (top of the code)
+	- Io = input output
+	- If you want to use python the file should be open not closed!
+	
+##### Perhaps the #1 programming skill: 
+“Googling the Error Message”
