@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<!--
+  Want to customize this website? Learn more about how HTML works:
+  https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+-->
+
+<html>
+  <head>
+    <!-- everything inside the <head> tags is meta data -->
+    <meta charset="utf-8">
+    <title>code societies cooperative webpage</title>
+    <link rel="stylesheet" href="/styles.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+  <body>
+    <!-- everything inside the <body> tags is information that will display on the web page -->
+    <h1>welcome to the code societies cooperative webpage</h1>
+    
+    <p>this website is made with beaker browser. there is no one owner.</p>
+    
+    <p>for the now the code for this website is hosted on github here: https://github.com/doodybrains/codesocietiescooperativewebpage</p>
+    
+    <p>we can use this site to post links, experiment with code through the code of this site, share ideas and</p>
+
+    <p>marquee coming soon !!</p>
+    <div id="sfpc-marquee"></div>
+    <button id="change-background-color">
+      Change background color
+    </button>
+  </body>
+  
+  <!-- this is a link to the javascript file, a place that allows us to add magical things to this page -->
+  <script type="application/javascript" src="script.js"></script>
+
+  <script>
+    function httpGetAsync(theUrl, callback)
+    {
+        var xmlHttp = new XMLHttpRequest();
+        xmlHttp.onreadystatechange = function() {
+            if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+                callback(xmlHttp.responseText);
+        }
+        xmlHttp.open("GET", theUrl, true); // true for asynchronous
+        xmlHttp.send(null);
+    }
+    
+    httpGetAsync('https://e6945815.ngrok.io/blogs', function(response){
+      console.log(response);
+      let json = JSON.parse(response);
+      let blogs = json.blogs;
+    
+    
+      let html = ''
+      for(let i = 0; i < blogs.length; i++){
+        console.log(blogs[i]);
+        let element = "<a href='" + blogs[i].url + "'>" + blogs[i].title + "</a>";
+        html += element;
+      }
+    
+      let sfpcElement = document.getElementById('sfpc-marquee');
+      element.innerHTML = sfpcElement;
+    });
+  </script>
+</html>
