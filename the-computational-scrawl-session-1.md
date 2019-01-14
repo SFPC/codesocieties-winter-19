@@ -37,4 +37,4 @@ Finally we wrote for 3 minutes on our cell phones. The room was now almost silen
 
 This exercised begged the question, what is digital writing? How do things like auto-correct and predictive typing inform the materiality and process of our writing? We could consider digital writing as automatic writing where the "control" is the engineer behind the computer or software we are using. 
 
-Overall this class blew my mind and I am very much looking forward to the homework assignment of producing automatic writing using the Gutenberg database and python code!
+This class blew my mind and I am very much looking forward to the homework assignment of producing automatic writing using the Gutenberg database and python code!
