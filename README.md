@@ -146,4 +146,4 @@ Critical Simulation is a workshop session in part about the dominant simulations
  Simulate until you make it: we will together design our own models as a class. How can we work with and through the techno-utopian ideal of starting over, that is so deeply embedded into engineering? How do we make simulations that allow for difficulty and complexity and contradictory, clashing personal and social histories? Who do we imagine living on in the future? How are the worlds we are engineering today making life untenable for the models that aren’t included or created to begin with? How do we move from living on the edges of simulations, and possibly into the center of the worlds we move through? 
 
 
-### UPDATE!(Code Societies: Winter 2019 Students Cooperative Web Page)https://code-societies-collaborative-web-page.hashbase.io/
+### UPDATE! (Code Societies: Winter 2019 Students Cooperative Web Page)https://code-societies-collaborative-web-page.hashbase.io/
