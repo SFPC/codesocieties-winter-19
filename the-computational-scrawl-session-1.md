@@ -9,6 +9,8 @@ Day 3 of Code Societies was led by poet and programmer Allison Parrish. This was
 
 For this first session we focused on text, as in letters and words. I realized early on in this session how much writing and typing I actually do on a daily basis and how little I consider the materiality of the tools I am using to do so. It is interesting to consider what our physical bodies look like when interacting with computers and how those interactions dictate the what we are actually writing or making. For me, the session became about answering the question: how do computers change how we think about and process language?
 
+!["Allison Parrish took us through a series of texts."](assets/comp-scrawl.jpg)
+
 In the first part of the class Allison took us different texts and had us unpack why a particular text was even considered a text at all. We talked about form, structure, intention, style, replicability, logic, interactivity, spatiality, and systems. We looked at text of artists like William Carlos Williams, Apollinaire, and Zach Lieberman. We asked questions of their work and tried to understand their text from a material perspective which led to a bigger question: with the representation of language, what choices are made and for who? What choices are we not considering when looking at a text? The first text we looked at was a simple sentence: "Meet me under the oak tree at midnight". It was centered on the page and in a relatively large font size. It was almost graphic although interestingly enough we did not start to talk about spatiality and form until we were looking at poems and interactive text. Something I would like to ask of every text moving forward is, who is this text intended for? What is the intention of the writer and how do they want or not want the reader respond?
 
 This brought us to automatic writing where the question of intention became something new! With "normal" writing the author will have some sort of intention, at least for what they are going to write, which informs their hand movement which then informs the marks on the page. With automatic writing the author is meant to start from nothing, an unconscious place. This leads to hand movement, not necessarily controlled by the conscious part of the brain, which then leads to marks on the page which may or may not be legible. The question here is what makes a "control". In the case of automatic writing the hand is controlled by sub-conscious or an unconscious force. French avant-garde surrealists as well as a long line of psychologists and spiritualist saw this as a way to get through social representation and to an essential truth, either within the author and from another being. 
@@ -21,6 +23,11 @@ My favorite part of this class was the automatic writing exercise. We followed t
 - Lose control
 - Don’t think. Don’t get logical
 - Go for the jugular
+
+
+!["Automatic writing on computers."](assets/UNADJUSTEDNONRAW_thumb_2f87.jpg)
+
+!["Automatic writing on phones."](assets/UNADJUSTEDNONRAW_thumb_2f88.jpg)
 
 First we wrote for 3 minutes with pen and paper. The room was immediately filled with the scratching sound of pencils on paper. This felt the easiest to me. Even if I didn't like what I was writing I felt that it was easy enough to just keep moving my hand. 
 
