@@ -83,13 +83,15 @@ Distributed Web of Care is an initiative to code to care and code carefully. In 
 
 ### WYFY: Exorcizing Technology
 BUFU
-- July 12th
+- 1/12/2019
+- https://docs.google.com/document/d/1TMuCytOWLwIFkJtzQLmnStxE4UGuAjXVOYuZGmh8J9U/edit
 
 Whose world is this? The World is Ours. Together students will work thru a Beta version of BUFUs latest experimental model on organizing WYFY - a project seeking to invite us to rethinking how we build space online// IRL for our most equitable future. We will also participate in various meditative exercises to exorcize technology.
 
 ### Ethicsware
 Dan Taeyoung
 - 1/15/2019
+- https://github.com/dantaeyoung/Ethicsware/
 
 Much of the technology we encounter in our daily lives takes the form of a service, and of servitude. Our desires are taken as a given, and technology attempts for fulfillment. 
 
@@ -109,6 +111,9 @@ The internet as we live with it today could be conceived of as one of the most a
 ### Cybernetics of Sex: Technology, Feminisms, & the Choreography of Culture
 Melanie Hoff
 - 1/17/2019
+- https://github.com/melaniehoff/cyberneticsofsex/blob/master/README.md
+
+An introduction to cybernetics — the study of control systems in machines and living things. Through the example of sexual reproduction and the ways sex is often translated as gender, we will look at regulatory systems and feedback loops in the technological frameworks in which we are embedded and in the social pressures that govern our behavior. We will tease out social patterns and norms that emerge over time, through bodies, and come together to create culture.
 
 ### we play programmed.
 FlucT
