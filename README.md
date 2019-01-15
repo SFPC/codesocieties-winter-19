@@ -40,6 +40,7 @@ Melanie Hoff and  Taeyoon Choi
 - 1/7/18
 - [Code Societies Slides Keynote Form](https://drive.google.com/open?id=1D4QJYRNgNyuj5ebva-69A8cevwQkHCBn)
 - [Code Societies Slides PDF Form](https://drive.google.com/open?id=1w8iVjJ8Ioman0Ne0wXw3jJSNGPOKFt_b)
+- [Blog Post](https://github.com/SFPC/codesocieties-winter-19/blob/master/intro-to-code-societies.md)
 
 An introduction to Code Societies as the session's theme and it's prompt along with an introduction to SFPC from Taeyoon Choi.
 
