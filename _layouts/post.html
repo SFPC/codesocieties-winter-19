@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="post-content">
+  <h3>{{ page.title }}</h3>
+  {% if page.subtitle %}
+    <small>{{ page.subtitle }}</small>
+  {% endif %}
+  <br>
+  <br>
+
+  {{content}}
+
+  <small>{{ page.author | default: site.author }}</small>
+</div>
+
