@@ -47,7 +47,7 @@ An introduction to Code Societies as the session's theme and it's prompt along w
 ### Computational Methods of Code Societies
 Melanie Hoff and Nabil Hassein
 - 1/8/19
-- https://github.com/SFPC/codesocieties-winter-19/blob/master/computational-methods-of-code-societies.md
+- https://github.com/SFPC/codesocieties-winter-19/blob/master/blog/computational-methods-of-code-societies.md
   
 A one-session class covering the primary computational methods of Code Societies Classes: Winter 2019. 
 Together we will defamiliarize and refamiliarize ourselves with the Command Line Interface, Git/Github, running Python 3 in the terminal, & running Python 3 with Anaconda Jupyter Notebook.  We will navigate folder structure narratives with the command line, time travel with Git, code socially with Github, and process language with Python.
