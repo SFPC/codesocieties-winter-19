@@ -1,4 +1,4 @@
-#The Computational Scrawl Session 2
+# The Computational Scrawl Session 2
 
 Day 7 ~ Code Societies ~ Winter 2019
 
