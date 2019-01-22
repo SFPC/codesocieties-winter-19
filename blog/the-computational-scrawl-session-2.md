@@ -18,6 +18,34 @@ Throughout this session I kept wondering, but what is the purpose of asemic writ
 
 !["Allison Parrish, discussing letterforms on whiteboard"](assets/IMG_0667.JPG)
 
-During the second half of class, Allison led us through a Jupyter Notebook in which we used a Python library called flat to draw shapes with code. Using random number functions and circular shapes we were able to create something that started to look like writing.
+During the second half of class, Allison led us through a tutorial in which we used a Python library called flat to draw shapes with code. In addition to learning flat we also used the random functions from Numpy and bezmerizing a library written by Allison that allows you to make to make various kinds of asemic writing using Bézier curves. 
 
-It seems like the possibilities for what computational asemic writing can be are endless. I wonder how important random number functions are in these exercises. Is a random number function a sort of equivalent to a subconscious/unconscious choice when making marks on a page? There is a constant push and pull between trying to make something look a certain way but also not intentionally creating something representational. Asemic writing seems to sit right in between these two. Whether it is asemic or automatic or completely intentional like the writing in this blog post I am very much looking forward to exploring the act of writing through computational means!
+We started by first making shapes with the `flat` library. Using functions like `shape()`, `fill()` and `stroke()` we were able to generate some basic shapes of varying sizes and colors.
+
+!["Allison Parrish, discussing letterforms on whiteboard"](assets/comp-scrawl-shapes-colors.png)
+
+We then learned how to use random number generators with the `numpy` library. We tried the `uniform()` function first. This function will return a number between 0 and 1 in "uniform distribution." In other words every value will have the same chance of being returned.
+
+!["Allison Parrish, discussing letterforms on whiteboard"](assets/comp-scrawl-uniform.png)
+
+Next we tried the `normal()` function for generating random numbers. This function does something a little different - it returns values that will cluster around a given number. The normal() function takes two arguments: the first is the "center", in other words the number that the values should cluster around and the second is the standard deviation.
+
+!["Allison Parrish, discussing letterforms on whiteboard"](assets/comp-scrawl-normal.png)
+
+Now we were able to visualize these random number distributions by using them with the shapes we created earlier. 
+
+!["Allison Parrish, discussing letterforms on whiteboard"](assets/comp-scrawl-random-number.png)
+
+In order to start to make our shapes and the placement of them look more like writing we had learn how to create polylines. Creating polylines requires denoting a series of points on a plane and then connecting them. The `flat` library has a `polyline()` function so by using a random number generator to mark a series of points we could then pass those points into the `polyline()` function to create an outline of shape.
+
+!["Allison Parrish, discussing letterforms on whiteboard"](assets/comp-scrawl-polyline.png)
+
+Eventually we were able to put these outlined shapes onto a grid - the asemic writing is starting to come together here!
+
+!["Allison Parrish, discussing letterforms on whiteboard"](assets/comp-scrawl-grid.png)
+
+Finally we got to try Allison's `bezmerizing` library which allows you to add weight to particular parts of a line. This allowed the shapes to have more character.
+
+!["Allison Parrish, discussing letterforms on whiteboard"](assets/comp-scrawl-bezmerizing.png)
+
+It seems like the possibilities for what computational asemic writing can be are endless. I'm wondering how important random number functions are in these exercises. Is a random number function a sort of equivalent to a subconscious/unconscious choice when making marks on a page? There is a constant push and pull between trying to make something look a certain way but also not intentionally creating something representational. Asemic writing seems to sit right in between these two. Whether it is asemic or automatic or completely intentional like the writing in this blog post I am very much looking forward to exploring the act of writing through computational means!
