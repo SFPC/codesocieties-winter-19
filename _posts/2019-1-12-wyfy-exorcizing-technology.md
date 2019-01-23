@@ -1,5 +1,5 @@
 ---
-title: WYFY: Exorcizing Technology
+title: "WYFY: Exorcizing Technology"
 subtitle: Day 6 ~ led by BUFU on January 12th 2019
 author: written by Mimi Doan
 ---
