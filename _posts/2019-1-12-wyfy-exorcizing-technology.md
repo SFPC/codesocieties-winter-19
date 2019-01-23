@@ -9,7 +9,7 @@ _Whose world is this? The World is Ours. Together students will work thru a Beta
 
 On Day 6 we were joined by Tsige Tafesse and Katherine Tom of By Us For Us (BUFU), for a knowledge share on how to critically (re)engage the ways that we establish and inhabit spaces online and IRL. We started by reading BUFU's Community Guidelines and sharing how certain codes of conduct landed with us before talking about the history of BUFU.
 
-![]({{ "/assets/bufu_coc.jpg" | relative_url }})
+![The BUFU code of conduct]({{ "/assets/coc.jpg" | relative_url }})
 
 Since the collective's inception in September of 2015, institutions have been trying to define BUFU and render them legible. Are they an art collective? Are they a technology collaborative? Do they throw parties too? Why did someone give them a warehouse? BUFU has never identified themselves as an art collective, a technology collaborative, or whatever - but it is a long-standing tradition for the press, media, art and academic institutions to read whatever they want from queer, femme and non-binary, Black and Asian bodies rather than let them define themselves.
 
@@ -27,6 +27,6 @@ After writing we were asked to spend some time on our phones with an observer ta
 
 In our final activity, Kat and Tsige challenged us to come up with three Codes of Conducts in pairs, then to link up with another pair and widdle our 6 CoCs into 3, then to link up with another group of 4 and so on until we were divided up into two large groups with 3 CoCs each. By the end of the activity we had created tangible codes of conduct that we could all hold and touch.
 
-![]({{ "/assets/WYFY_1.jpg" | relative_url }})
+![Nicole showing off a collaborative Code of Conduct]({{ "/assets/WYFY_1.JPG" | relative_url }})
 
-![]({{ "/assets/WYFY_2.jpg" | relative_url }})
+![Mimi showing off a collaborative Code of Conduct]({{ "/assets/WYFY_2.JPG" | relative_url }})
