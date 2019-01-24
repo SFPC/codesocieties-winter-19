@@ -1,17 +1,18 @@
 ---
 title: "Day 5: Distributed Web of Care with Taeyoon Choi"
 author: by Nicole Cheng
+hidefromlist: true
 ---
 
 Taeyoon Choi is the computer lab instructor I wish I had. Maybe if my introduction to computers and the internet were not so simplistic and focused on hardware, maybe the way I navigate our digital world today would be drastically different.
 
 !["Taeyoon teaching the Code Societies"]({{ "/assets/taeyoon-1.JPG" | relative_url }})
 
-Most of today's computation is done on the cloud. Through plastering this clumsy cute cloud over their vast centralized networks, technologies like Google and Amazon Web Services (AWS) have abstracted infrastructural problems into logistical problems. Try to think about this materializing like physical infrastructure where AWS is like the Department of Transportation and to access the Internet "city" you need to get on these "highways" that have been conveniently laid out for you by Amazon. Taking this as the norm, you focus on how computing problems have to do with logistics--how to get on the "highway" and possible traffic issues that come with using it. You don't question whether the fact that computing being dominated by these "highways" is the real infrastructural problem and instead focus on logistical problems.
+Most of today's computation is done on the cloud. Through plastering this clumsy cute cloud over their vast centralized networks, technologies like Google and Amazon Web Services (AWS) have abstracted [infrastructural problems into logistical problems](https://www.theatlantic.com/technology/archive/2016/01/amazon-web-services-data-center/423147/). Try to think about this materializing like physical infrastructure where AWS is like the Department of Transportation and to access the Internet "city" you need to get on these "highways" that have been conveniently laid out for you by Amazon. Taking this as the norm, you focus on how computing problems have to do with logistics--how to get on the "highway" and possible traffic issues that come with using it. You don't question whether the fact that computing being dominated by these "highways" is the real infrastructural problem and instead focus on logistical problems.
 
- For the first time, I was being asked what kind of space I wanted the Internet to be. Taeyoon prompted us to think about not simply decentralizing networks, but taking a step further to weave a distributed web of care. Here the word "care" pays particular attention to affect, where we take care of each other and the notion of intention trumps control. The word "distributed" was inspired by feminist writer Jo Freeman, who advocated for the distribution of authority among as many people as reasonably possible as a way to counter authoritarian structures.
+ For the first time, I was being asked what kind of space I wanted the Internet to be. Taeyoon prompted us to think about not simply decentralizing networks, but taking a step further to weave a distributed web of care. Here the word "care" pays particular attention to affect, where we take care of each other and the notion of intention trumps control. The word "distributed" was inspired by feminist writer [Jo Freeman](https://www.jofreeman.com/joreen/tyranny.html), who advocated for the distribution of authority among as many people as reasonably possible as a way to counter authoritarian structures.
 
-!["A screenshot from Domesticated Mountain by Andreas Angelidakis."](assets/domesticated-mountain.png)
+!["A screenshot from Domesticated Mountain by Andreas Angelidakis."]({{ "/assets/domesticated-mountain.png" | relative_url }})
 Screenshot from Domesticated Mountain by [Andreas Angelidakis](https://www.angelidakis.com/)
 
 Further elaborating on authoritatrian structures, Taeyoon contrasted Foucault's [panopticon](https://en.wikipedia.org/wiki/Panopticon) with Deleuze's societies of control. He argued that control in the Internet is not in the form of a central omnipresent watchtower, but instead [a less obvious, more insidious form of control](https://cidadeinseguranca.files.wordpress.com/2012/02/deleuze_control.pdf).
