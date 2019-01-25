@@ -1,6 +1,5 @@
 # Code Societies Winter 2019
 
-
 ![Code Societies Logo](/assets/black_4.jpg)
 
 - 3 Week Session, Monday Jan 7th - Saturday Jan 26th
@@ -16,6 +15,8 @@ Central to Code Societies is understanding technology as culture and culture as 
 
 Code Societies Winter 2019 session is organized by Melanie Hoff and the teaching
 assistants are Ying Quan Tan and Nabil Hassein.
+
+Follow along at our class [blog](blog)!
 
 
 # Teachers
@@ -40,16 +41,17 @@ Melanie Hoff and  Taeyoon Choi
 - 1/7/18
 - [Code Societies Slides Keynote Form](https://drive.google.com/open?id=1D4QJYRNgNyuj5ebva-69A8cevwQkHCBn)
 - [Code Societies Slides PDF Form](https://drive.google.com/open?id=1w8iVjJ8Ioman0Ne0wXw3jJSNGPOKFt_b)
-- [Blog Post](https://github.com/SFPC/codesocieties-winter-19/blob/master/intro-to-code-societies.md)
+- [Blog Post]({{ "2019/01/07/intro-to-code-societies.html" | relative_url }})
 
 An introduction to Code Societies as the session's theme and it's prompt along with an introduction to SFPC from Taeyoon Choi.
 
 ### Computational Methods of Code Societies
 Melanie Hoff and Nabil Hassein
 - 1/8/19
-- https://github.com/SFPC/codesocieties-winter-19/blob/master/computational-methods-of-code-societies.md
-  
-A one-session class covering the primary computational methods of Code Societies Classes: Winter 2019. 
+- https://github.com/SFPC/codesocieties-winter-19/blob/master/blog/computational-methods-of-code-societies.md
+
+A one-session class covering the primary computational methods of Code Societies Classes: Winter 2019.
+
 Together we will defamiliarize and refamiliarize ourselves with the Command Line Interface, Git/Github, running Python 3 in the terminal, & running Python 3 with Anaconda Jupyter Notebook.  We will navigate folder structure narratives with the command line, time travel with Git, code socially with Github, and process language with Python.
 
 
@@ -94,9 +96,9 @@ Dan Taeyoung
 - 1/15/2019
 - https://github.com/dantaeyoung/Ethicsware/
 
-Much of the technology we encounter in our daily lives takes the form of a service, and of servitude. Our desires are taken as a given, and technology attempts for fulfillment. 
+Much of the technology we encounter in our daily lives takes the form of a service, and of servitude. Our desires are taken as a given, and technology attempts for fulfillment.
 
-What is technology that debates and disputes, rather than fulfills our desires?  What is intimate software, created by us, only for us, that debates with our ethical selves? 
+What is technology that debates and disputes, rather than fulfills our desires?  What is intimate software, created by us, only for us, that debates with our ethical selves?
 
 In this session, let's experiment together with creating ethicsware: software in dialogue with our ethical selves. Using checklists and chatbots as a starting point, we’ll code with Python and use messaging APIs to create ethicsware experiments. We'll talk about ELIZA, a psychotherapist chatbot created in 1966, the influence of classist labor practices onto technology, and the ethics of emotional labor.
 
@@ -114,7 +116,7 @@ Melanie Hoff
 - 1/17/2019
 - https://github.com/melaniehoff/cyberneticsofsex/blob/master/README.md
 
-An introduction to cybernetics — the study of control systems in machines and living things. Through the example of sexual reproduction and the ways sex is often translated as gender, we will look at regulatory systems and feedback loops in the technological frameworks in which we are embedded and in the social pressures that govern our behavior. We will tease out social patterns and norms that emerge over time, through bodies, and come together to create culture.
+An introduction to cybernetics as the study of the ways we shape and are shaped by systems of feedback and control. Through the example of sexual reproduction and the ways sex become gender, we will look at social regulatory systems in the technological frameworks in which we are embedded and in the social pressures that govern our behavior. We will tease out social patterns and norms that emerge over time, through bodies, and come together to create culture.
 
 ### we play programmed.
 FlucT
@@ -132,15 +134,6 @@ American Artist
 
 We will look in depth at Wendy Hui Kyong Chun’s theory of software as an analogy for ideology and how she traces early computational design to existing dynamics of gender, power and control. We will also read the essay Black Gooey Universe by American Artist which considers how the erasure of Blackness (both formally and racially) was significant to the development of early computer interfaces. We will look at examples of artists and artworks that operate within these modes of critique.
 
-### we play programmed.
-Fluct
-- 1/18/2019
-- https://docs.google.com/document/d/1-UMjwqIkazFVAMA9pLwBABdhQi4eBc4pHWEj2xq1Fiw/edit?ts=5c26ff07
-
-we play programmed. is a class about performance, not just as an art but performance as behavior.
-
-We prioritize certain behaviors curated by social programming, whether by poetry or by survival. Through dissecting Fluct’s latest work ‘everythingmakesmehappy.’, we will discuss the processes used to create performance aimed at exposing and ultimately interrupting the psychology of social programming. With fluid interruption, responsive support and acute presence, we are aiming to disable oppressive structures in order to become the authors of our existence.
-
 ### Critical Simulation
 Nora Khan
 - 1/24/2019
@@ -149,7 +142,7 @@ Nora Khan
 Critical Simulation is a workshop session in part about the dominant simulations and dominant models which create the world we live in, their underlying ideologies, and the necessity for constant critical examination of these simulations and models, bodies, and forms engineered to organize and master the world. We’ll take a short ride through the founding utopianism of Silicon Valley, followed by a rigorous critique of the techno-utopian fantasy of a forever westward-bound restart with each commune and alternative living establishment, in which people are emptied of history and politics. We will examine how this “ideal” undergirds Silicon Valley’s visions of engineering people into “functioning better” in a more “efficient” society where the violence of neutrality erases possibility for productive change along lines of difference.
  This idea of difference as difficulty, of the tabula rasa as a starting point, has failed us over and over again. What alternative simulations for living might there be, which technology and social models could be based upon? How do current simulations embed this fantasy of the frontier into ideology, in which we exist and move in voids without pasts? How does digital space allow for a kind of nihilism, a happy bliss in which this void is preferable, the past erased along an endlessly receding horizon, its motives disappeared?
  What would models that acknowledge context, history, and “facts,” begin to look like? We have at our hands, in the Internet, the effect of an Akashic record that can pull up all material on the “difficult” societies, violent histories, and systemic oppressions – but no simulation builds these materials into their foundational models.
- Simulate until you make it: we will together design our own models as a class. How can we work with and through the techno-utopian ideal of starting over, that is so deeply embedded into engineering? How do we make simulations that allow for difficulty and complexity and contradictory, clashing personal and social histories? Who do we imagine living on in the future? How are the worlds we are engineering today making life untenable for the models that aren’t included or created to begin with? How do we move from living on the edges of simulations, and possibly into the center of the worlds we move through? 
+ Simulate until you make it: we will together design our own models as a class. How can we work with and through the techno-utopian ideal of starting over, that is so deeply embedded into engineering? How do we make simulations that allow for difficulty and complexity and contradictory, clashing personal and social histories? Who do we imagine living on in the future? How are the worlds we are engineering today making life untenable for the models that aren’t included or created to begin with? How do we move from living on the edges of simulations, and possibly into the center of the worlds we move through?
 
 
-### 🔥UPDATE! [Code Societies: Winter 2019 Students Cooperative Web Page](https://code-societies-collaborative-web-page.hashbase.io/) 
+### 🔥UPDATE! [Code Societies: Winter 2019 Students Cooperative Web Page](http://sfpc.io/codesocieties_students)
