@@ -1,5 +1,5 @@
 ---
-title: Cybernetics of Sex: Technology, Feminisms, & the Choreography of Culture
+title: "Cybernetics of Sex: Technology, Feminisms, & the Choreography of Culture"
 subtitle: Day 10 ~ led by Melanie Hoff on January 17th 2019
 author: written by Nicole Cheng
 ---
