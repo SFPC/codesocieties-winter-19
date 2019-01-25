@@ -2,8 +2,7 @@
 title: "Day 5: Distributed Web of Care with Taeyoon Choi"
 author: by Nicole Cheng
 hidefromlist: true
-comment: This post is hidden from the view but not deleted because it is the
-twitter link that has already been posted.
+comment: This post is hidden from the view because it has a bad link
 ---
 
 Taeyoon Choi is the computer lab instructor I wish I had. Maybe if my introduction to computers and the internet were not so simplistic and focused on hardware, maybe the way I navigate our digital world today would be drastically different.
