@@ -19,6 +19,9 @@ A one-session class covering the primary computational methods of Code Societies
 - Download the folder at this link: https://drive.google.com/file/d/1DtBmjeguFjsyHmj8oqADk8NEv14g1bCh/view
 - Unzip the folder and move it into to your “home” or "root" folder (the one with the little house icon on a Mac).
 
+![Computational Methods of Code Societes: Melanie Hoff describing folder structures]({{
+  "/assets/computational-methods-2.jpg" | relative_url }})
+  
 ## 🌿We can think of the “environment” as way that a programmer builds their personal workflow in the domain of their computer…
 > Coding isn’t something that just happens in your text editor or terminal. Coding can be a wholistic computer practice, a new relationship you have with your computer & your computer habits. from the way you name your files or organize your folders, to completely changing how you perform routine tasks on your computer such as moving a file.
 
@@ -27,6 +30,9 @@ To ensure that you can easily access Atom (the text editor we will be using thro
 1. Open Atom
 2. Click the Atom menu in the top left corner and choose “install shell commands”. This will ensure that you can access Atom from the Terminal also known as the *command line*.
 
+![Computational Methods of Code Societes: Terminal example]({{
+  "/assets/computational-methods-1.jpg" | relative_url }})
+  
 ## 🌿What is the command line?
 Think about all of the applications you open on a day to day basis on your computer. One of the many mechanisms we use to do these things is dragging and clicking different icons and folders using a mouse or trackpad.
 
@@ -48,6 +54,9 @@ The command line can be seen a more intimate way to interact with your computer,
 
 > sometimes you will ask your computer to install something and it will not give you any kind of response but the thing you wanted to install was actually successful. the reason the computer will not return any kind of response takes us way back into the history of computing when the computer would respond to a programmer by printing out its response on a piece of paper. In order to save paper computers were programmed to just do nothing if the command was successful.
 
+![Computational Methods of Code Societes: Terminal magic, photo of someone's Terminal garden]({{
+  "/assets/computational-methods-3.jpg" | relative_url }})
+  
 ## 🌿Lets embark on a Folder Structure Narrative !
 
 > Moving forward you can think of the Terminal (command line) as the “secret trap door/master key/teleportation portal” to your computer.
@@ -212,6 +221,10 @@ run `git status` to see a list of what files changes have been made
 8. `git commit -am “my addition to my partner’s narrative”`
 9. `git push`
 
+
+![Computational Methods of Code Societes: Code Societies students embark on folder structure narratives.]({{
+  "/assets/computational-methods-4.jpg" | relative_url }})
+  
 ## 🌿Python
 There are a lot of different ways to interact with Python. One way is using the interactive interpreter. Another way is using Jupyter Notebooks. In this guide we will mostly be working within a Jupyter Notebook.
 
@@ -220,6 +233,10 @@ There are a lot of different ways to interact with Python. One way is using the 
 #### To ensure that Python is installed:
 Type word python and press enter you should get back something like this Python 3.7.1 (default, Dec 14 2018, 13:28:58)[Clang 4.0.1 (tags/RELEASE_401/final)] ::
 
+
+![Computational Methods of Code Societes: Nabil leads us through Python code, terminology and conventions]({{
+  "/assets/computational-methods-4.jpg" | relative_url }})
+  
 #### Python terminology + conventions
 In terminal you can write `print(hello world)` and the terminal will print out the line "hello world". In Python you will usually write the name of the function, open parentheses, argument, closed parentheses
 

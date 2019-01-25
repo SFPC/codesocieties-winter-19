@@ -116,7 +116,7 @@ Melanie Hoff
 - 1/17/2019
 - https://github.com/melaniehoff/cyberneticsofsex/blob/master/README.md
 
-An introduction to cybernetics — the study of control systems in machines and living things. Through the example of sexual reproduction and the ways sex is often translated as gender, we will look at regulatory systems and feedback loops in the technological frameworks in which we are embedded and in the social pressures that govern our behavior. We will tease out social patterns and norms that emerge over time, through bodies, and come together to create culture.
+An introduction to cybernetics as the study of the ways we shape and are shaped by systems of feedback and control. Through the example of sexual reproduction and the ways sex become gender, we will look at social regulatory systems in the technological frameworks in which we are embedded and in the social pressures that govern our behavior. We will tease out social patterns and norms that emerge over time, through bodies, and come together to create culture.
 
 ### we play programmed.
 FlucT
@@ -134,15 +134,6 @@ American Artist
 
 We will look in depth at Wendy Hui Kyong Chun’s theory of software as an analogy for ideology and how she traces early computational design to existing dynamics of gender, power and control. We will also read the essay Black Gooey Universe by American Artist which considers how the erasure of Blackness (both formally and racially) was significant to the development of early computer interfaces. We will look at examples of artists and artworks that operate within these modes of critique.
 
-### we play programmed.
-Fluct
-- 1/18/2019
-- https://docs.google.com/document/d/1-UMjwqIkazFVAMA9pLwBABdhQi4eBc4pHWEj2xq1Fiw/edit?ts=5c26ff07
-
-we play programmed. is a class about performance, not just as an art but performance as behavior.
-
-We prioritize certain behaviors curated by social programming, whether by poetry or by survival. Through dissecting Fluct’s latest work ‘everythingmakesmehappy.’, we will discuss the processes used to create performance aimed at exposing and ultimately interrupting the psychology of social programming. With fluid interruption, responsive support and acute presence, we are aiming to disable oppressive structures in order to become the authors of our existence.
-
 ### Critical Simulation
 Nora Khan
 - 1/24/2019
@@ -154,4 +145,4 @@ Critical Simulation is a workshop session in part about the dominant simulations
  Simulate until you make it: we will together design our own models as a class. How can we work with and through the techno-utopian ideal of starting over, that is so deeply embedded into engineering? How do we make simulations that allow for difficulty and complexity and contradictory, clashing personal and social histories? Who do we imagine living on in the future? How are the worlds we are engineering today making life untenable for the models that aren’t included or created to begin with? How do we move from living on the edges of simulations, and possibly into the center of the worlds we move through?
 
 
-### 🔥UPDATE! [Code Societies: Winter 2019 Students Cooperative Web Page](https://code-societies-collaborative-web-page.hashbase.io/)
+### 🔥UPDATE! [Code Societies: Winter 2019 Students Cooperative Web Page](http://sfpc.io/codesocieties_students)
