@@ -7,7 +7,7 @@ _Building Nets for Floating Data is a one-session class on scraping information 
 
 [Link to Full Syllabus](https://docs.google.com/document/d/1I1kM6lD8zPUvxakIujNj0HeUdmYFVAwnrt0s18BvMMQ/edit)
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#
 
 On Day 4 of Code Societies, we were joined by Everest Pipkin, a multimedia artist who works in software: games, bots, and beyond, as well as tactile physical mediums - for a conversation on the ethics of web scraping followed by a skillshare on how to get a scraper running on our local machines. Everest started this session by giving an overview of the three methodologies for getting data from the web as well as the advantages and shortcomings of each of them.
 
@@ -27,6 +27,9 @@ the ability to bypass corporations and governmental agencies in our pursuit of d
 
 Web scraping also gives you the power to punch up, to bypass the walled gardens of [government agencies](https://www.nytimes.com/2017/03/06/science/donald-trump-data-rescue-science.html) and big corporations that do not want to give you easy ways of accessing their data. We specifically talked about Sam Lavigne's project from June of 2018 in which they scraped LinkedIn for the profiles of everyone who worked for ICE. Sam hosted the data on Github and wrote a Medium article about this project and within 24 hours both sites had removed his work under the guise that they do not promote Doxxing on their platforms. You can find an archived version of the article [here](https://archive.fo/0aYO3) and an archived version of the CSV [here](https://archive.fo/VhOLb).
 
+![Everest Pipkin on navigating consent]({{
+  "/assets/everest-pipkin-2.JPG" | relative_url }})
+
 Despite its advantages, web scraping is far from a perfect technology. In sourcing from the internet, the data collected will be biased - it will have bias regardless of how or where it is sourced from, but we can be selective in avoiding the most horrible and violent corners of the internet. Web scraping is also a onetime operation - the only way to get dated information is to scrape again and again. Scraped data is usually not as clean as data coming from APIs or precompiled sets and it might take some additional massaging with python and learning of [Reg-Ex](https://regexr.com/) before the data is usable.
 
 These are a few of the disadvantages of exclusively sourcing through web scrapping, but the most central concern arises when considering the question of how we hold conversations about consent when scraping from the web? Everest said their current solution for this issue is to use Creative Commons no-attribution work whenever possible, but to attribute liberally anyway, and to always be ready to pull something off if someone asks, but there is no One Right Answer.
@@ -42,6 +45,12 @@ Everest went on to show us examples of work made by:
 **_coalescing data by hand_**
 - [Mosaic Virus](http://annaridler.com/mosaic-virus/) -- Machine-learning generated Tulips by Anna Ridler
 - [VR 3](http://www.pippinbarr.com/2017/03/29/v-r-3/) -- A museum of all the water on the Unity Store by Pippin Barr
+
+![Everest Pipkin showing artwork they made with old cursors]({{
+  "/assets/everest-pipkin-3.JPG" | relative_url }})
+
+![Everest Pipkin showing an application they recently made]({{
+  "/assets/everest-pipkin-4.JPG" | relative_url }})
 
 ## Build Yourself a Web Scraper
 
