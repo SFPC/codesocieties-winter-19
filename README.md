@@ -1,5 +1,7 @@
 # Code Societies Winter 2019
 
+### [Checkout our showcase livestream!](https://www.youtube.com/watch?v=UqbO-gRyTdE)
+
 ![Code Societies Logo](/assets/black_4.jpg)
 
 - 3 Week Session, Monday Jan 7th - Saturday Jan 26th
