@@ -1,6 +1,6 @@
 
 ## [Checkout our showcase livestream!](https://www.youtube.com/watch?v=UqbO-gRyTdE)
-![Showcase](/assets/showcase.gif)
+[[![Showcase](/assets/showcase.gif)](https://www.youtube.com/watch?v=UqbO-gRyTdE)
 
 
 
