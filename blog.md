@@ -1,5 +1,7 @@
 
-### [Checkout our showcase livestream!](https://www.youtube.com/watch?v=UqbO-gRyTdE)
+## [Checkout our showcase livestream!](https://www.youtube.com/watch?v=UqbO-gRyTdE)
+![Showcase](/assets/showcase.gif)
+
 
 
 <ul>
