@@ -35,7 +35,7 @@ Next we looked at 'sex' and 'technology' which often intersected in the consider
 
 The story of “The Egg and the Sperm” as pictured in the slide above is an example of how gender stereotypes are framing a supposedly objective scientific depiction of reproduction. In this fictional romance starring patriarchy, the egg is depicted as an object with no agency while the sperm aggressively hunt for the egg in a seemingly easy process, wherein reality both are equally involved in this dance and it is not as straightforward as commonly depicted.
 
-These gender stereotypes are entangled in how we perform and are controlled in society, with birth control being another example of this. With the consideration of masculinity in computation, Melanie showed us how gender bias is coded into google translate, where Turkish sentences regarding occupations turn from gender neutral to gendered in English, such as "he is a doctor". She also showed us excerpts from her “Draw What Alexa looks like” project where she got young children growing up with Siri and Alexa in their homes to draw what they thought they looked like. Below are examples of drawings by the same child one year apart.
+These gender stereotypes are entangled in how we perform and are controlled in society, with birth control being another example of this. With the consideration of masculinity in computation, Melanie showed us how gender bias is coded into google translate, where Turkish sentences regarding occupations turn from gender neutral to gendered in English, such as "he is a doctor". She also showed us excerpts from her “Draw What You Think Alexa looks like” project where she got young children growing up with Siri and Alexa in their homes to draw what they thought they looked like. Below are examples of drawings by the same child one year apart.
 
 !["Drawing of Alexa"]({{ "/assets/alexa-1.jpeg" | relative_url }})
 !["Drawing of Alexa"]({{ "/assets/alexa-2.jpeg" | relative_url }})
@@ -54,7 +54,8 @@ Forms of feminism we discussed:
 - [VNS Matrix](https://vnsmatrix.net/about/), a cyberfeminist art collective from Adelaide Australia
 - [Common Cyborg](https://granta.com/common-cyborg/) by Jillian Weise that criticizes Donna Haraway's famed _Cyborg Manifesto_ for the erasure of disabled people.
 
-Melanie put forward the example of sex work as a culmination of what we had been discussing in class so far, pointing to the further marginalization of sex workers through the closing of online platforms like Backpages with the passing of SESTA/FOSTA. We also discussed [Misogynoir](https://www.google.com/search?q=misogynoir&oq=misogynoir&aqs=chrome..69i57j0l5.2511j1j4&sourceid=chrome&ie=UTF-8) as a concept grounded in intersectionality.
+Melanie put forward the example of sex work as one culmination of the topics we had been discussing in class so far such as technology, sex, feminisms, race, gender, class, & capitalism, pointing to the further marginalization of sex workers and gentrification of the internet through the closing of online platforms like Backpage.com with the passing of SESTA/FOSTA. 
+We also discussed [Misogynoir](https://www.google.com/search?q=misogynoir&oq=misogynoir&aqs=chrome..69i57j0l5.2511j1j4&sourceid=chrome&ie=UTF-8) as a concept grounded in intersectionality.
 
 !["FlucT performing"](assets/FlucT.jpeg)
 ###### Choreography of Culture
@@ -67,9 +68,10 @@ Looking at the last phrase in Melanie's title for the class, we were shown a myr
 - [Amalia Ulman](http://www.bbc.com/culture/story/20160307-the-instagram-artist-who-fooled-thousands)
 - [_SacredWare_](https://www.rhaberstroh.com/sacredware/) by Beck Haberstroh
 
-In an attempt to tie some of the many threads of conversation we had in class, we looked at quotes from Audre Lorde's texts to consider whether forming a trusting, intimate relationship with computation is possible, or if software is necessarily a context for control.
+In an attempt to tie some of the many threads of conversation we had in class, we looked at our role as a student of the School for Poetic Computation and quotes from Audre Lorde's texts ("Uses of the Erotic" & "The Master's Tools Will Never Dismantle the Master's House") to consider whether forming a trusting, intimate relationship with computation is possible, or if software is necessarily a context for control.
+
 >“What does it mean when the tools of a racist patriarchy are used to examine the fruits of that same patriarchy? It means that only the most narrow perimeters of change are possible and allowable.” - Audre Lorde
 
-Keeping thoughts of resistance to imperialist computational processes, we closed the class by creating a distributed speaker system with all out phones at once with images we uploaded from the Cybernetics of Sex library at the beginning of class.
+Keeping thoughts of resistance to imperialist computational processes, we closed the class by creating a distributed speaker system with all our phones playing the same song at once at slightly different time signatures with the images we uploaded from the Cybernetics of Sex library at the beginning of class appearing on our handheld screens.
 
 [!["A medley of students' shadows as they create the distributed speaker system.""](https://img.youtube.com/vi/0isjrIFD3SI/0.jpg)](https://www.youtube.com/watch?v=0isjrIFD3SI)
