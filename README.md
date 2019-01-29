@@ -18,7 +18,7 @@ Central to Code Societies is understanding technology as culture and culture as 
 Code Societies Winter 2019 session is organized by Melanie Hoff and the teaching
 assistants are Ying Quan Tan and Nabil Hassein.
 
-Follow along at our class [blog](blog)!
+Follow along at our class [blog](http://sfpc.io/codesocieties-winter-19/blog)!
 
 
 # Teachers
@@ -43,7 +43,7 @@ Melanie Hoff and  Taeyoon Choi
 - 1/7/18
 - [Code Societies Slides Keynote Form](https://drive.google.com/open?id=1D4QJYRNgNyuj5ebva-69A8cevwQkHCBn)
 - [Code Societies Slides PDF Form](https://drive.google.com/open?id=1w8iVjJ8Ioman0Ne0wXw3jJSNGPOKFt_b)
-- [Blog Post]({{ "2019/01/07/intro-to-code-societies.html" | relative_url }})
+- [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/07/intro-to-code-societies.html)
 
 An introduction to Code Societies as the session's theme and it's prompt along with an introduction to SFPC from Taeyoon Choi.
 
@@ -51,6 +51,7 @@ An introduction to Code Societies as the session's theme and it's prompt along w
 Melanie Hoff and Nabil Hassein
 - 1/8/19
 - https://github.com/SFPC/codesocieties-winter-19/blob/master/blog/computational-methods-of-code-societies.md
+- [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#computational-methods-of-code-societies)
 
 A one-session class covering the primary computational methods of Code Societies Classes: Winter 2019.
 
@@ -61,6 +62,8 @@ Together we will defamiliarize and refamiliarize ourselves with the Command Line
 Allison Parrish
 - 1/9/2019, 1/14/2019
 - https://gist.github.com/aparrish/8c1a0fde5a7b9b025930edc8628f438f
+- [Blog Post Pt.1](http://sfpc.io/codesocieties-winter-19/blog#the-computational-scrawl)
+- [Blog Post Pt.2](http://sfpc.io/codesocieties-winter-19/blog#the-computational-scrawl-session-2)
 
 This two-part workshop examines the physical gesture and material artifacts of the act of writing, as seen through the lens of computation and digital media. Taking contemporary and historical practices in asemic poetry, experimental typography and automatic writing as inspiration, participants will use the Python programming language to prototype speculative writing technologies that challenge conventional reading practices and notions of sense-making.
 
@@ -68,7 +71,8 @@ This two-part workshop examines the physical gesture and material artifacts of t
 Everest Pipkin
 - 1/10/2019
 - https://docs.google.com/document/d/1I1kM6lD8zPUvxakIujNj0HeUdmYFVAwnrt0s18BvMMQ/edit
-
+- [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#day-4-building-nets-for-floating-data)
+  
 Building Nets for Floating Data is a one-session class on scraping information from websites, including text, images, and source code. We will talk about potential uses of large datasets, look at examples of artworks that use scraping as their informational backbone, and survey the ecosystem of online information gathering at large.
 
 We will discuss popular alternatives to scraping, from APIs (online communication portals that serve data from organizations) to pre-gathered datasets uploaded to Github (for machine learning and other tasks). We will talk about this type of packaged data, as well as bias that is so often contained within.
@@ -83,6 +87,7 @@ After getting a handle on the landscape of web-scraping at large, we will talk a
 Taeyoon Choi
 - 1/11/2019
 - http://distributedweb.care/posts/codesocieties/
+- [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#day-5-distributed-web-of-care-with-taeyoon-choi)
 
 Distributed Web of Care is an initiative to code to care and code carefully. In this class there will engage in three different activities. First, we will investigate centralized, decentralized, distributed and peer to peer networks. We will analyze the popular technology platforms, focusing on its network infrastructure and terms of services. We will compare them with decentralized alternatives such as Dat Peer to Peer Protocol and Scuttlebutt. Second, we will take on performative exercises to explore the feeling of being in a network. We will learn to move around in physical space with strings in order to care, not control, each other. Lastly, we will imagine the kinds of network we want for the future and we will discuss how we can build it with code and code of conduct. We will distribute our code and code of conduct as zines in physical print and data, published with Dat.
 
@@ -90,6 +95,7 @@ Distributed Web of Care is an initiative to code to care and code carefully. In 
 BUFU
 - 1/12/2019
 - https://docs.google.com/document/d/1TMuCytOWLwIFkJtzQLmnStxE4UGuAjXVOYuZGmh8J9U/edit
+- [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#wyfy-exorcizing-technology)
 
 Whose world is this? The World is Ours. Together students will work thru a Beta version of BUFUs latest experimental model on organizing WYFY - a project seeking to invite us to rethinking how we build space online// IRL for our most equitable future. We will also participate in various meditative exercises to exorcize technology.
 
@@ -97,6 +103,7 @@ Whose world is this? The World is Ours. Together students will work thru a Beta 
 Dan Taeyoung
 - 1/15/2019
 - https://github.com/dantaeyoung/Ethicsware/
+- [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#ethicsware)
 
 Much of the technology we encounter in our daily lives takes the form of a service, and of servitude. Our desires are taken as a given, and technology attempts for fulfillment.
 
@@ -110,6 +117,7 @@ What does it mean to create technology that operates on our ethics? What is tech
 Ingrid Burrington
 - 1/16/2019, 1/22/2019
 - https://github.com/lifewinning/networked-terraforming
+- [Blog Post Pt. 1](http://sfpc.io/codesocieties-winter-19/blog#networked-terraforming-pt-1)
 
 The internet as we live with it today could be conceived of as one of the most ambitious long-term geoengineering projects of human civilization. How can we learn to look for and understand the large-scale global terraforming projects shaping our lives at a more human-sized dimension? This workshop will map and explore the many landscapes shaped by and shaping code society.
 
@@ -117,6 +125,7 @@ The internet as we live with it today could be conceived of as one of the most a
 Melanie Hoff
 - 1/17/2019
 - https://github.com/melaniehoff/cyberneticsofsex/blob/master/README.md
+- [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#cybernetics-of-sex-technology-feminisms-the-choreography-of-cult)
 
 An introduction to cybernetics as the study of the ways we shape and are shaped by systems of feedback and control. Through the example of sexual reproduction and the ways sex become gender, we will look at social regulatory systems in the technological frameworks in which we are embedded and in the social pressures that govern our behavior. We will tease out social patterns and norms that emerge over time, through bodies, and come together to create culture.
 
