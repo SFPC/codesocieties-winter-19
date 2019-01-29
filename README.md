@@ -18,7 +18,7 @@ Central to Code Societies is understanding technology as culture and culture as 
 Code Societies Winter 2019 session is organized by Melanie Hoff and the teaching
 assistants are Ying Quan Tan and Nabil Hassein.
 
-Follow along at our class [blog](http://sfpc.io/codesocieties-winter-19/blog)!
+### Follow along at our class [blog](http://sfpc.io/codesocieties-winter-19/blog)!
 
 
 # Teachers
