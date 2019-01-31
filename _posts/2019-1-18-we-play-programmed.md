@@ -14,14 +14,14 @@ I feel like I need to preface this blog post by saying that I'm still not sure a
 
 FlucT is a performance collaborative created by Sigrid Lauren & Monica Mirabile. Their work prods at the tensions of capital obedience in American culture through choreography and performance. They've performed at techno festivals, gallery spaces, art fairs, and now, for Code Societies students in a dance studio around the corner from SFPC. The experience, holistically, was incredibly cinematic - imagine sitting in a historic dance studio right by Hudson River Park facing a beautiful view of the southern Manhatten skyline and seeing an experimental performance collaborative do things with their bodies that you have never seen people do with their bodies to a dissonant soundtrack of athleisure ads, techno music, samples from America's Got Talent, and unidentifiable noise.
 
-!["Sitting in a circle before our first workshop"]({{ "/assets/fluct-1.jpg" | relative_url }})
+!["Sitting in a circle before our first workshop"]({{ "/assets/fluct-1.JPG" | relative_url }})
 
 FlucT started their class with a workshop that was really more of an invitation - an invitation to actively recognize and engage in the ways that our bodies are existing in relation to one another. In pairs, we mimicked the movements of our partner while maintaining eye contact for the entire duration. I want to say that we did it for five minutes, but my conceptualization of time collapsed at some point. There were moments where it felt entirely too long, excruciating even, and moments where I never wanted it to end. Have you ever looked into someone's eyes for so long that you lost track of time? I know it sounds lame, but bear with me - it's my truth. It is hard to look at someone in the eyes for that long and not have affection for them. There's a level of intimacy to learning the motions and limitations of another person's corporeal form: whether they are comfortable stretching at a certain angle, how their shoulders come together as they lift their arms above their head. There was never a verbal acknowledgment of who would lead when or who would follow. We all silently consigned to have control or to be controlled.
 
 Following this activity FlucT left the room to prepare for their performance and the lights in the studio were turned off. In hindsight, this was really where the performance began for me. The darkness felt like another invitation - an invitation to dump any sensorial baggage that I'd entered the room with so that I could be open to whatever I was about to see and hear and feel.
 
-!["Fluct performing"]({{ "/assets/fluct-2.jpg" | relative_url }})
-!["Fluct performing"]({{ "/assets/fluct-3.jpg" | relative_url }})
+!["Fluct performing"]({{ "/assets/fluct-2.JPG" | relative_url }})
+!["Fluct performing"]({{ "/assets/fluct-3.JPG" | relative_url }})
 The conceptual sections of their performance break down as follows:
 - (00:00) "I will not hurt myself, I will not hurt you..."
 - (00:00 - 03:30) Nonconsensual Media Absorption
@@ -36,7 +36,7 @@ The conceptual sections of their performance break down as follows:
 - (23:50 - 25:00) The Freak Out: A release and a response
 
 
-!["Fluct conducts a discussion after the performance"]({{ "/assets/fluct-4.jpg" | relative_url }})
+!["Fluct conducts a discussion after the performance"]({{ "/assets/fluct-4.JPG" | relative_url }})
 
 After their performance, we sat together and tried to collectively process what we'd just seen and how it made us feel. I realize this is a very feeling heavy blog post. Some moments were identifiably messed up. In the first act of their performance, Monica dragged Sigrid, face down butt up, by the arm from the back of the room to the front. This was hard to watch. My brain associates this kind motion with things that cannot be consented to - like a true crime re-enactment where the killer drags a body into his garage for disposal or hacking apart. The person being dragged cannot consent to this because they are dead, violence is the necessary precondition to this movement, and this is the only thing I can think to compare it to. Our reflection was characterized by confusion, perhaps a little dismay, and silences when none of us could seem to find any words.
 
