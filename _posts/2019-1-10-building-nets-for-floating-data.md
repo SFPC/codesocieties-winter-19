@@ -7,8 +7,6 @@ _Building Nets for Floating Data is a one-session class on scraping information 
 
 [Link to Full Syllabus](https://docs.google.com/document/d/1I1kM6lD8zPUvxakIujNj0HeUdmYFVAwnrt0s18BvMMQ/edit)
 
-#
-
 On Day 4 of Code Societies, we were joined by Everest Pipkin, a multimedia artist who works in software: games, bots, and beyond, as well as tactile physical mediums - for a conversation on the ethics of web scraping followed by a skillshare on how to get a scraper running on our local machines. Everest started this session by giving an overview of the three methodologies for getting data from the web as well as the advantages and shortcomings of each of them.
 
 We started with the alternatives: Application Program Interfaces (APIs) and pre-compiled datasets. APIs are essentially user interfaces for our computers. They provide easier access points for code running on your machine to fetch data and perform operations based on the data that is returned from the access point. APIs can be incredibly useful because they often allow users to access hidden metrics and perform mass operations that aren't possible in a GUI focused internet. Everest said that they avoid using APIs as much as possible because they are often corporate and like most corporate projects they likely have an agenda.
