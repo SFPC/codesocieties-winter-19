@@ -6,6 +6,8 @@ author: written by Nicole Cheng
 
 >if you ever code something that "feels like a hack but it works," just remember that a CPU is literally a rock that we tricked into thinking - [Tweet from @daisyowl](https://twitter.com/daisyowl/status/841802094361235456?lang=en)
 
+[Link to Full Syllabus](https://github.com/lifewinning/networked-terraforming)
+
 !["Some rocks Ingrid brought to class"]({{ "/assets/rocks.jpg" | relative_url }})
 
 Having first met Ingrid Burrington at the SFPC [Code Ecologies](http://sfpc.io/codeecologies/) event last December, I was excited to delve deeper into the intersection of environment and computing that I often feel is lacking in both spheres of work and conversation. Our first exercise focused on the prompt of 'computation as environment', where we all wrote down initial responses and words we associated with the concept. Ideas ranged from understanding that our environment is a construct that our brain creates for ourself to how computation moves through different environments through infrastructure like a consumer electronics supply chain. Our many ideas were then condensed into single words as drawn on the whiteboard in the picture below.

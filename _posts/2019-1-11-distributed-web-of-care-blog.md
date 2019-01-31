@@ -1,12 +1,13 @@
 ---
 title: "Day 5: Distributed Web of Care with Taeyoon Choi"
 author: by Nicole Cheng
-subtitle: "[Link to Full Syllabus](http://distributedweb.care/posts/codesocieties/)"
 ---
 
 Taeyoon Choi is the computer lab instructor I wish I had. Maybe if my introduction to computers and the internet were not so simplistic and focused on hardware, maybe the way I navigate our digital world today would be drastically different.
 
 !["Taeyoon teaching the Code Societies"]({{ "/assets/taeyoon-1.JPG" | relative_url }})
+
+[Link to Full Syllabus](http://distributedweb.care/posts/codesocieties/)
 
 Most of today's computation is done on the cloud. Through plastering this clumsy cute cloud over their vast centralized networks, technologies like Google and Amazon Web Services (AWS) have abstracted [infrastructural problems into logistical problems](https://www.theatlantic.com/technology/archive/2016/01/amazon-web-services-data-center/423147/). Try to think about this materializing like physical infrastructure where AWS is like the Department of Transportation and to access the Internet "city" you need to get on these "highways" that have been conveniently laid out for you by Amazon. Taking this as the norm, you focus on how computing problems have to do with logistics--how to get on the "highway" and possible traffic issues that come with using it. You don't question whether the fact that computing being dominated by these "highways" is the real infrastructural problem and instead focus on logistical problems.
 

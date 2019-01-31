@@ -6,6 +6,9 @@ author: written by emma @doodybrains rae norton
 
 _This two-part workshop examines the physical gesture and material artifacts of the act of writing, as seen through the lens of computation and digital media. Taking contemporary and historical practices in asemic poetry, experimental typography and automatic writing as inspiration, participants will use the Python programming language to prototype speculative writing technologies that challenge conventional reading practices and notions of sense-making._
 
+
+[Link to Full Syllabus](https://gist.github.com/aparrish/8c1a0fde5a7b9b025930edc8628f438f)
+
 Day 3 of Code Societies was led by poet and programmer Allison Parrish. This was the first of two sessions entitled the Computational Scrawl, a workshop where we would engage with the act of writing, its materiality and how it relates to computation and digital media.
 
 For this first session we focused on text, as in letters and words. I realized early on in this session how much writing and typing I actually do on a daily basis and how little I consider the materiality of the tools I am using to do so. It is interesting to consider what our physical bodies look like when interacting with computers and how those interactions dictate the what we are actually writing or making. For me, the session became about answering the question: how do computers change how we think about and process language?

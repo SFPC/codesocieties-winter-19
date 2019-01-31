@@ -5,6 +5,9 @@ author: written by Nicole Cheng
 ---
 !["Yasmeen showing the class a book she picked up form the Cybernetics of Sex library and sharing it with the class."]({{ "/assets/melanie-1.JPG" | relative_url }})
 
+
+[Link to Full Syllabus](https://github.com/SFPC/codesocieties-winter-19/blob/master/blog/computational-methods-of-code-societies.md)
+
 Knowing Melanie in her capacity as an organizer for Code Societies thus far, it was exciting to see her put on her teacher hat and have us consider sex and gender as a case study for learning about systemic problems and feedback loops in cybernetics.
 
 To begin the class, we were tasked with browsing the Cybernetics of Sex collection to find a diagram, image, or sentence connected to something we had been thinking about recently. Like Yasmeen pictured above, we then shared our thoughts with each other to open up discussion about Melanie's focus for the class: Cybernetics of Sex. This browsing library had been introduced to us by Sarah Hamerman last Saturday as a curated collection from the larger [Cybernetics Library](cybernetics.social) at [Prime Produce](https://www.primeproduce.coop/) in Hell's Kitchen.
@@ -54,7 +57,7 @@ Forms of feminism we discussed:
 - [VNS Matrix](https://vnsmatrix.net/about/), a cyberfeminist art collective from Adelaide Australia
 - [Common Cyborg](https://granta.com/common-cyborg/) by Jillian Weise that criticizes Donna Haraway's famed _Cyborg Manifesto_ for the erasure of disabled people.
 
-Melanie put forward the example of sex work as one culmination of the topics we had been discussing in class so far such as technology, sex, feminisms, race, gender, class, & capitalism, pointing to the further marginalization of sex workers and gentrification of the internet through the closing of online platforms like Backpage.com with the passing of SESTA/FOSTA. 
+Melanie put forward the example of sex work as one culmination of the topics we had been discussing in class so far such as technology, sex, feminisms, race, gender, class, & capitalism, pointing to the further marginalization of sex workers and gentrification of the internet through the closing of online platforms like Backpage.com with the passing of SESTA/FOSTA.
 We also discussed [Misogynoir](https://www.google.com/search?q=misogynoir&oq=misogynoir&aqs=chrome..69i57j0l5.2511j1j4&sourceid=chrome&ie=UTF-8) as a concept grounded in intersectionality.
 
 !["FlucT performing"](assets/FlucT.jpeg)

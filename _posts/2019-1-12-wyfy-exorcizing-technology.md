@@ -7,6 +7,8 @@ author: written by Mimi Doan
 _Whose world is this? The World is Ours. Together students will work thru a Beta version of BUFUs latest experimental model on organizing WYFY - a project seeking to invite us to rethinking how we build space online// IRL for our most equitable future. We will also participate in various meditative exercises to exorcize technology._
 
 
+[Link to Full Syllabus](https://docs.google.com/document/d/1TMuCytOWLwIFkJtzQLmnStxE4UGuAjXVOYuZGmh8J9U/edit)
+
 On Day 6 we were joined by Tsige Tafesse and Katherine Tom of By Us For Us (BUFU), for a knowledge share on how to critically (re)engage the ways that we establish and inhabit spaces online and IRL. We started by reading BUFU's Community Guidelines and sharing how certain codes of conduct landed with us before talking about the history of BUFU.
 
 ![The BUFU code of conduct]({{ "/assets/coc.png" | relative_url }})

@@ -6,6 +6,8 @@ author: written by Mimi Doan
 
 What is technology that debates and disputes, rather than fulfills our desires?  What is intimate software, created by us, only for us, that debates with our ethical selves?
 
+[Link to Full Syllabus](https://github.com/dantaeyoung/Ethicsware/)
+
 On Day 8 of Code Societies, we were joined by Dan Taeyoung. Dan is a technologist, architect, and community designer interested in the ways we collectively create communities, and how experimental tools and environments change the ways we think, collaborate and learn with one another.
 
 !["Point towards how you're feeling activity."]({{ "/assets/dan-1.JPG" | relative_url }})

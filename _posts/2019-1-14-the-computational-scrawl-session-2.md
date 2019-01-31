@@ -6,7 +6,7 @@ author: by emma @doodybrains rae norton
 
 _This two-part workshop examines the physical gesture and material artifacts of the act of writing, as seen through the lens of computation and digital media. Taking contemporary and historical practices in asemic poetry, experimental typography and automatic writing as inspiration, participants will use the Python programming language to prototype speculative writing technologies that challenge conventional reading practices and notions of sense-making._
 
-Taught by Allison Parrish
+Taught by Allison Parrish, [Link to Full Syllabus](https://gist.github.com/aparrish/8c1a0fde5a7b9b025930edc8628f438f)
 
 Day 7 of Code Societies was led by poet and programmer Allison Parrish. This was the second of two sessions entitled the Computational Scrawl, a workshop where we engaged with the act of writing, its materiality and how it relates to computation and digital media.
 
@@ -20,7 +20,7 @@ Throughout this session I kept wondering, but what is the purpose of asemic writ
 
 !["Allison Parrish, discussing letterforms on whiteboard"]({{"/assets/IMG_0667.JPG" | relative_url}})
 
-During the second half of class, Allison led us through a tutorial in which we used a Python library called flat to draw shapes with code. In addition to learning flat we also used the random functions from Numpy and bezmerizing a library written by Allison that allows you to make to make various kinds of asemic writing using Bézier curves. 
+During the second half of class, Allison led us through a tutorial in which we used a Python library called flat to draw shapes with code. In addition to learning flat we also used the random functions from Numpy and bezmerizing a library written by Allison that allows you to make to make various kinds of asemic writing using Bézier curves.
 
 We started by first making shapes with the `flat` library. Using functions like `shape()`, `fill()` and `stroke()` we were able to generate some basic shapes of varying sizes and colors.
 
@@ -34,7 +34,7 @@ Next we tried the `normal()` function for generating random numbers. This functi
 
 !["Allison Parrish, discussing letterforms on whiteboard"]({{"/assets/comp-scrawl-normal.png" | relative_url}})
 
-Now we were able to visualize these random number distributions by using them with the shapes we created earlier. 
+Now we were able to visualize these random number distributions by using them with the shapes we created earlier.
 
 !["Allison Parrish, discussing letterforms on whiteboard"]({{"/assets/comp-scrawl-random-number.png" | relative_url}})
 
