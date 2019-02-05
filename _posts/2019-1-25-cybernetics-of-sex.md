@@ -34,7 +34,7 @@ This example also served to illustrate how cybernetics looks at how to design dy
 ###### Sex & Technology
 Next we looked at 'sex' and 'technology' which often intersected in the consideration of gender as a social technology of control of non cis-het male bodies. Through sharing experiences of when we first became cognizant of our gender presentation, we began to posit our relationships to gender and sex. Some expressed a lack of specific memory that created self-awareness of gender while others pointed to heightened gender presentations in the US in comparison to countries like Sweden that have flattened the gender binary.
 
-!["Melanie showing the class a slide depicting the egg and the sperm, a fictional romance starring patriarchy."]({{ "/assets/melanie-2.JPG" | relative_url }})
+!["Melanie showing the class a slide depicting the egg and the sperm, a fictional romance starring patriarchy."]({{ "/assets/melanie-2.jpg" | relative_url }})
 
 The story of “The Egg and the Sperm” as pictured in the slide above is an example of how gender stereotypes are framing a supposedly objective scientific depiction of reproduction. In this fictional romance starring patriarchy, the egg is depicted as an object with no agency while the sperm aggressively hunt for the egg in a seemingly easy process, wherein reality both are equally involved in this dance and it is not as straightforward as commonly depicted.
 
@@ -60,7 +60,7 @@ Forms of feminism we discussed:
 Melanie put forward the example of sex work as one culmination of the topics we had been discussing in class so far such as technology, sex, feminisms, race, gender, class, & capitalism, pointing to the further marginalization of sex workers and gentrification of the internet through the closing of online platforms like Backpage.com with the passing of SESTA/FOSTA.
 We also discussed [Misogynoir](https://www.google.com/search?q=misogynoir&oq=misogynoir&aqs=chrome..69i57j0l5.2511j1j4&sourceid=chrome&ie=UTF-8) as a concept grounded in intersectionality.
 
-!["FlucT performing"](assets/FlucT.jpeg)
+!["FlucT performing"]({{ "/assets/FlucT.jpeg" | relative_url }})
 ###### Choreography of Culture
 Looking at the last phrase in Melanie's title for the class, we were shown a myriad of artists and works that she felt illustrated a 'choreography of culture':
 - [Tino Seghal](https://www.guggenheim.org/artwork/artist/tino-sehgal)
