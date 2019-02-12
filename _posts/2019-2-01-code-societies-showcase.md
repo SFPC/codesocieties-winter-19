@@ -5,12 +5,12 @@ author: written by emma rae norton & nicole cheng
 ---
 !["Room full of people at SFPC seated and listening to Code Societies Winter 2019 student presentations."]({{ "/assets/showcase-1.jpg" | relative_url }})
 
-On the final day of Code Societies, we celebrated each other and the experience as a whole with a showcase event. Each student gave a short presentation on something they had been working on or their thinking about since participating in the program. The impact of the program on each student really came through and It was so nice to hear everyone's reflections on the experience. It became clear just how meaningful the workshops had been for each person. In addition to giving short presentations we also had the opportunity to install our work in the window room of SFPC. There were installations of mushrooms, pen plotters, and super sad google queries. It was so fun to finally spend some time with all of the different projects. Even though we only had a day and a half to get everything ready for a public showcase I was able to see all of the things we discussed throughout the 3 week session shining through each piece.
+On the final day of Code Societies, we celebrated each other and the experience as a whole with a showcase event. Each student gave a short presentation on something they had been working on, or their musings since participating in the program. The impact of the program on each student really came through and it was so nice to hear everyone's reflections on the experience. It became clear just how meaningful the workshops had been for each person. In addition to giving short presentations we also had the opportunity to install our work in the window room of SFPC. There were installations of mushrooms, pen plotters, and super sad google queries. It was so fun to finally spend some time with all of the different projects. Even though we only had a day and a half to get everything ready for a public showcase I was able to see all of the things we discussed throughout the 3 week session shining through each piece.
 
 ###### AC Gillette:	_Found Manuscripts I II and III_
 These mid 22nd century manuscripts were found at an abandoned CYM site. On loan from The Society for the Study of the CYM People.
 !["Three plotted pieces of asemic writing presented on a wall."]({{ "/assets/AC-3.jpg" | relative_url }})
-!["AC Gilette presenting."]({{ "/assets/AC-2.JPG" | relative_url }})
+!["AC Gilette presenting."]({{ "/assets/AC-2.jpg" | relative_url }})
 
 ###### Carlos Sanchez	_Artist Website as Shifting Landscape/Character_
 Work-in-progress collaboration with movement-theater artist and poet, Jo Stewart. This project begins with a metaphor extracted from the artist’s practice that is taken as the site’s architectural backbone.
@@ -36,7 +36,7 @@ Sets of instructions generated from texts about perspective drawing and nature t
 !["Ingrid Lange presenting."]({{ "/assets/ingrid-2.jpg" | relative_url }})
 
 ###### Iris Qu: _Alternative news generator_
-A machine's take on what's going on in the news.
+A machine's take on what's going on in the news. See the live project at: https://trumptails.glitch.me
 !["A photograph of machine generated news about Trump on a laptop screen."]({{ "/assets/iris-1.jpg" | relative_url }})
 !["Iris Qu presenting."]({{ "/assets/iris-2.jpg" | relative_url }})
 
