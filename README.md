@@ -41,7 +41,6 @@ assistants are Ying Quan Tan and Nabil Hassein.
 #### Introduction to SFPC with Taeyoon Choi
 Melanie Hoff and  Taeyoon Choi
 - 1/7/18
-- [Code Societies Slides Keynote Form](https://drive.google.com/open?id=1D4QJYRNgNyuj5ebva-69A8cevwQkHCBn)
 - [Code Societies Slides PDF Form](https://drive.google.com/open?id=1w8iVjJ8Ioman0Ne0wXw3jJSNGPOKFt_b)
 - [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/07/intro-to-code-societies.html)
 
@@ -50,7 +49,6 @@ An introduction to Code Societies as the session's theme and it's prompt along w
 ### Computational Methods of Code Societies
 Melanie Hoff and Nabil Hassein
 - 1/8/19
-- https://github.com/SFPC/codesocieties-winter-19/blob/master/blog/computational-methods-of-code-societies.md
 - [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#computational-methods-of-code-societies)
 
 A one-session class covering the primary computational methods of Code Societies Classes: Winter 2019.
@@ -61,7 +59,7 @@ Together we will defamiliarize and refamiliarize ourselves with the Command Line
 ### The Computational Scrawl (2 Sessions)
 Allison Parrish
 - 1/9/2019, 1/14/2019
-- https://gist.github.com/aparrish/8c1a0fde5a7b9b025930edc8628f438f
+- [Syllabus](https://gist.github.com/aparrish/8c1a0fde5a7b9b025930edc8628f438f)
 - [Blog Post Pt.1](http://sfpc.io/codesocieties-winter-19/blog#the-computational-scrawl)
 - [Blog Post Pt.2](http://sfpc.io/codesocieties-winter-19/blog#the-computational-scrawl-session-2)
 
@@ -70,7 +68,7 @@ This two-part workshop examines the physical gesture and material artifacts of t
 ### Building Nets for Floating Data
 Everest Pipkin
 - 1/10/2019
-- https://docs.google.com/document/d/1I1kM6lD8zPUvxakIujNj0HeUdmYFVAwnrt0s18BvMMQ/edit
+- [Syllabus](https://docs.google.com/document/d/1I1kM6lD8zPUvxakIujNj0HeUdmYFVAwnrt0s18BvMMQ/edit)
 - [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#day-4-building-nets-for-floating-data)
   
 Building Nets for Floating Data is a one-session class on scraping information from websites, including text, images, and source code. We will talk about potential uses of large datasets, look at examples of artworks that use scraping as their informational backbone, and survey the ecosystem of online information gathering at large.
@@ -86,7 +84,7 @@ After getting a handle on the landscape of web-scraping at large, we will talk a
 ### Distributed Web of Care
 Taeyoon Choi
 - 1/11/2019
-- http://distributedweb.care/posts/codesocieties/
+- [Syllabus](http://distributedweb.care/posts/codesocieties/)
 - [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#day-5-distributed-web-of-care-with-taeyoon-choi)
 
 Distributed Web of Care is an initiative to code to care and code carefully. In this class there will engage in three different activities. First, we will investigate centralized, decentralized, distributed and peer to peer networks. We will analyze the popular technology platforms, focusing on its network infrastructure and terms of services. We will compare them with decentralized alternatives such as Dat Peer to Peer Protocol and Scuttlebutt. Second, we will take on performative exercises to explore the feeling of being in a network. We will learn to move around in physical space with strings in order to care, not control, each other. Lastly, we will imagine the kinds of network we want for the future and we will discuss how we can build it with code and code of conduct. We will distribute our code and code of conduct as zines in physical print and data, published with Dat.
@@ -94,7 +92,7 @@ Distributed Web of Care is an initiative to code to care and code carefully. In 
 ### WYFY: Exorcizing Technology
 BUFU
 - 1/12/2019
-- https://docs.google.com/document/d/1TMuCytOWLwIFkJtzQLmnStxE4UGuAjXVOYuZGmh8J9U/edit
+- [Syllabus](https://docs.google.com/document/d/1TMuCytOWLwIFkJtzQLmnStxE4UGuAjXVOYuZGmh8J9U/edit)
 - [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#wyfy-exorcizing-technology)
 
 Whose world is this? The World is Ours. Together students will work thru a Beta version of BUFUs latest experimental model on organizing WYFY - a project seeking to invite us to rethinking how we build space online// IRL for our most equitable future. We will also participate in various meditative exercises to exorcize technology.
@@ -102,7 +100,7 @@ Whose world is this? The World is Ours. Together students will work thru a Beta 
 ### Ethicsware
 Dan Taeyoung
 - 1/15/2019
-- https://github.com/dantaeyoung/Ethicsware/
+- [Syllabus](https://github.com/dantaeyoung/Ethicsware/)
 - [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#ethicsware)
 
 Much of the technology we encounter in our daily lives takes the form of a service, and of servitude. Our desires are taken as a given, and technology attempts for fulfillment.
@@ -116,7 +114,7 @@ What does it mean to create technology that operates on our ethics? What is tech
 ### Networked Terraforming (2 Sessions)
 Ingrid Burrington
 - 1/16/2019, 1/22/2019
-- https://github.com/lifewinning/networked-terraforming
+- [Syllabus](https://github.com/lifewinning/networked-terraforming)
 - [Blog Post Pt. 1](http://sfpc.io/codesocieties-winter-19/blog#networked-terraforming-pt-1)
 
 The internet as we live with it today could be conceived of as one of the most ambitious long-term geoengineering projects of human civilization. How can we learn to look for and understand the large-scale global terraforming projects shaping our lives at a more human-sized dimension? This workshop will map and explore the many landscapes shaped by and shaping code society.
@@ -124,7 +122,7 @@ The internet as we live with it today could be conceived of as one of the most a
 ### Cybernetics of Sex: Technology, Feminisms, & the Choreography of Culture
 Melanie Hoff
 - 1/17/2019
-- https://github.com/melaniehoff/cyberneticsofsex/blob/master/README.md
+- [Syllabus](https://github.com/melaniehoff/cyberneticsofsex/blob/master/README.md)
 - [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#cybernetics-of-sex-technology-feminisms-the-choreography-of-cult)
 
 An introduction to cybernetics as the study of the ways we shape and are shaped by systems of feedback and control. Through the example of sexual reproduction and the ways sex become gender, we will look at social regulatory systems in the technological frameworks in which we are embedded and in the social pressures that govern our behavior. We will tease out social patterns and norms that emerge over time, through bodies, and come together to create culture.
@@ -132,7 +130,7 @@ An introduction to cybernetics as the study of the ways we shape and are shaped 
 ### we play programmed.
 FlucT
 - 1/18/2019
-- https://docs.google.com/document/d/1-UMjwqIkazFVAMA9pLwBABdhQi4eBc4pHWEj2xq1Fiw/edit?ts=5c26ff07
+- [Syllabus](https://docs.google.com/document/d/1-UMjwqIkazFVAMA9pLwBABdhQi4eBc4pHWEj2xq1Fiw/edit?ts=5c26ff07)
 
 we play programmed. is a class about performance, not just as an art but performance as behavior.
 
@@ -141,14 +139,14 @@ We prioritize certain behaviors curated by social programming, whether by poetry
 ### Software as Ideology
 American Artist
 - 1/23/2019
-- https://github.com/0ld-h3ad/SoftwareAsIdeology-Winter2019
+- [Syllabus](https://github.com/0ld-h3ad/SoftwareAsIdeology-Winter2019)
 
 We will look in depth at Wendy Hui Kyong Chun’s theory of software as an analogy for ideology and how she traces early computational design to existing dynamics of gender, power and control. We will also read the essay Black Gooey Universe by American Artist which considers how the erasure of Blackness (both formally and racially) was significant to the development of early computer interfaces. We will look at examples of artists and artworks that operate within these modes of critique.
 
 ### Critical Simulation
 Nora Khan
 - 1/24/2019
-- https://docs.google.com/document/d/119UxuwE0TfuUI47rZ7RU47mGqmLanRHl5J2lSHqJLzM/edit?usp=sharing
+- [Syllabus](https://docs.google.com/document/d/119UxuwE0TfuUI47rZ7RU47mGqmLanRHl5J2lSHqJLzM/edit?usp=sharing)
 
 Critical Simulation is a workshop session in part about the dominant simulations and dominant models which create the world we live in, their underlying ideologies, and the necessity for constant critical examination of these simulations and models, bodies, and forms engineered to organize and master the world. We’ll take a short ride through the founding utopianism of Silicon Valley, followed by a rigorous critique of the techno-utopian fantasy of a forever westward-bound restart with each commune and alternative living establishment, in which people are emptied of history and politics. We will examine how this “ideal” undergirds Silicon Valley’s visions of engineering people into “functioning better” in a more “efficient” society where the violence of neutrality erases possibility for productive change along lines of difference.
  This idea of difference as difficulty, of the tabula rasa as a starting point, has failed us over and over again. What alternative simulations for living might there be, which technology and social models could be based upon? How do current simulations embed this fantasy of the frontier into ideology, in which we exist and move in voids without pasts? How does digital space allow for a kind of nihilism, a happy bliss in which this void is preferable, the past erased along an endlessly receding horizon, its motives disappeared?
